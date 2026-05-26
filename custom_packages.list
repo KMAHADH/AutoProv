@@ -1,0 +1,10 @@
+# --- System Monitoring & Benchmarking ---
+powertop
+neofetch
+
+# --- Extended Network Discovery ---
+traceroute
+iperf3
+
+# --- Developer / Node Runtime Dependencies ---
+build-essential
